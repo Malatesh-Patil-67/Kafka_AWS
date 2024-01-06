@@ -1,9 +1,9 @@
 
 #End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 
-we  take some stock market data and use Python to produce that data and put that data onto 
-Kafka cluster after that we will consume that data and store that data onto Amazon S3. 
-crawl that data to build a Glue catalog and analyze that data using Amazon Athena using SQL .
+we  take some stock market data and use Python to produce that data. Stream that data onto 
+Kafka cluster. after that we will consume same data and store it onto Amazon S3. next
+crawl the data to build a Glue catalog and analyze the data using Amazon Athena SQL.
 
 
 
