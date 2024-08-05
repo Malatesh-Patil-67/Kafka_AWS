@@ -22,5 +22,4 @@ Apache Kafka
 ![Alt text](image.png)
 
 
-
-followed Darshil's Youtube Tutorial:https://www.youtube.com/watch?v=KerNf0NANMo&ab_channel=DarshilParmar
+Credits: Darshil Parmar
